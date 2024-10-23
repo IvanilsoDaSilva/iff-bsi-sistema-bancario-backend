@@ -18,7 +18,7 @@ Bem-vindo ao repositório iff-bsi-sistema-bancario-backend, um projeto desenvolv
 
 <h2 align="right">1.2. DESCRIPTION 📝</h2>
 
-Este repositorio mantem o backend do sistema que funciona junto a um [frontend](https://github.com/IvanilsoDaSilva/sistema-bancario-frontend) separado. Essa parte se trata do backend e foi utilizada pelas materias de Projeto Orientado a Objetos e Administração de Banco de Dados com meu grupo [@Micael](https://github.com/micaelgomestavares) e [@Caike](https://github.com/CaikeLobo).
+Este repositorio mantem o backend do sistema que funciona junto a um [frontend](https://github.com/IvanilsoDaSilva/iff-bsi-sistema-bancario-frontend) separado. Essa parte se trata do backend e foi utilizada pelas materias de Projeto Orientado a Objetos e Administração de Banco de Dados com meu grupo [@Micael](https://github.com/micaelgomestavares) e [@Caike](https://github.com/CaikeLobo).
 
 <h2 align="right">1.2.1. PADRÃO DE DESIGNER DE ARQUITETURA</h2>
 
@@ -240,7 +240,7 @@ Body de Response
 <h2 align="right">1.6. OTHER REPOSITORIES 📘</h2>
 
 <div>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=sistema-bancario-frontend&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-bsi-sistema-bancario-frontend&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=udemy-introducao-python&bg_color=FFFFFF&title_color=FF00FF&text_color=FF00FF&icon_color=FF00FF&border_color=FF00FF"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-bsi&bg_color=FFFFFF&title_color=FF00FF&text_color=FF00FF&icon_color=FF00FF&border_color=FF00FF"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=git-commands&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF"/>
